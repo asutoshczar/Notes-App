@@ -1,0 +1,8 @@
+[
+  { "title": "This is my title", "body": "this is the note body" },
+  { "title": "routine", "body": "this is my routine" },
+  { "title": "some title", "body": "some content" },
+  { "title": "course", "body": "nodejs" },
+  { "title": "courses", "body": "nodejs" },
+  { "title": "error", "body": "error messages" }
+]
